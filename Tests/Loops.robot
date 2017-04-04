@@ -1,4 +1,5 @@
 *** Settings ***
+#pybot -d Results --reporttitle "Loops report" --logtitle "Loops log"  Tests/Loops.robot
 Library  String
 
 *** Variables ***
